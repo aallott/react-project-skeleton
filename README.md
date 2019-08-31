@@ -2,13 +2,9 @@
 
 ## Usage
 
-### Compile development assets:
-
-`npm run start`
-
 ### Development server with live reloading:
 
-`npm run start--dev`
+`npm run start`
 
 ### Build:
 
